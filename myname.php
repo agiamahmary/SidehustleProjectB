@@ -1,5 +1,4 @@
 <?php
 $myName = "Agiamah Mary";
-echo $myNmae;
-
+echo $myName;
 ?>
